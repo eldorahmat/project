@@ -20,6 +20,8 @@
             <small class="text-success">+2.1% dari bulan lalu</small>
         </div>
     </div>
+
+    //contoh
     <div class="col-md-3">
         <div class="bg-white p-3 rounded shadow-sm">
             <div>Total Kegiatan Dinas Luar</div>
